@@ -1,5 +1,8 @@
 {
     "name": "jw/convert",
     "description": "``libreoffice`office```pdf",
-    "require": {}
+    "require": {
+        "php":"^7.2"
+    },
+    "license": "MIT"
 }
